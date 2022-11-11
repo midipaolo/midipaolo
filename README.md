@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://stackoverflow.com/users/20474081/midipaolo"><img src="https://stackoverflow.com/users/flair/20474081.png?theme=dark" width="208" height="58" alt="profile for midipaolo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for midipaolo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--
 **midipaolo/midipaolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
