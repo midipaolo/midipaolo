@@ -2,6 +2,8 @@
 
 <a href="https://www.sololearn.com/profile/27515270">SoloLearn Profile</a>
 
+<a href="https://www.codecademy.com/profiles/midipaolo">Codecademy Profile</a>
+
 <!--
 **midipaolo/midipaolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
